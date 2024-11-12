@@ -1,0 +1,9 @@
+# Ignore IDE config files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore PHP cache
+*.cache
